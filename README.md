@@ -23,4 +23,4 @@ Upwork: https://www.upwork.com/freelancers/~0196fde06791a677d2
 
 **User Interface:** MUI, ChakraUI, TailwindCSS, Pure CSS, Flexbox, Gridbox
 
-**Lang:** JS, TS
+JavaScript, TypeScript
