@@ -22,3 +22,5 @@ Upwork: https://www.upwork.com/freelancers/~0196fde06791a677d2
 **Libraries:** Cypress, Jest, Redux, React-Query, GraphQL, REST
 
 **User Interface:** MUI, ChakraUI, TailwindCSS, Pure CSS, Flexbox, Gridbox
+
+**Lang:** JS, TS
