@@ -5,7 +5,7 @@ I am a web developer working with React, NextJS and RemixRun.
 
 I am also a mobile developer with React Native.
 
-Personal Website: https://www.reikoleci.dev
+Personal Website: https://www.reikoleci.com
 
 Linkedin: https://www.linkedin.com/in/rkoleci/
 
