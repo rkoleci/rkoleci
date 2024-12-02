@@ -15,12 +15,12 @@ Upwork: https://www.upwork.com/freelancers/~0196fde06791a677d2
 
 ## Tech Stack
 
-**Front:** React, React-Native
-
-**SSR:** NextJs, RemixRun
+**Front:** React, React-Native, Nextjs
 
 **Libraries:** Cypress, Jest, Redux, React-Query, GraphQL, REST
 
-**User Interface:** MUI, ChakraUI, TailwindCSS, Pure CSS, Flexbox, Gridbox
+**User Interface:** ShadcnUI, TailwindCSS, MUI, ChakraUI, , Pure CSS, Flexbox, Gridbox
+
+**State Management: Redux, React-Query, Zustand
 
 JavaScript, TypeScript
