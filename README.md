@@ -9,7 +9,7 @@ Personal Website: https://www.reikoleci.com
 
 Linkedin: https://www.linkedin.com/in/rkoleci/
 
-Upwork: https://www.upwork.com/freelancers/~0196fde06791a677d2
+
 
 
 
